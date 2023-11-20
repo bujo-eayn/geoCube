@@ -7,6 +7,6 @@
 </div>
 
 <div align="justify">
-    <p>A Puzzle Adventure Game.</p>
+    <p>This Python game challenges players to manipulate and orient 3D shapes as they fall from the top of the screen. The objective is to rotate and position each shape so that it fits perfectly through the hole at the bottom. The game becomes progressively challenging as the shapes increase in complexity and speed.</p>
 </div>
 

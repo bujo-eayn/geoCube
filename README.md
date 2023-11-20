@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   <b> <h2> Shape QUest </h2> </b>
+   <b> <h2> Shape Quest </h2> </b>
 </div>
 
 <div align="justify">

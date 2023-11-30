@@ -1,0 +1,7 @@
+.vscode
+Assets/Materials/
+Assets/Scenes/
+Assets/SyntyStudios/
+Assets/TextMesh Pro/
+*.hdr
+Assembly-CSharp.csproj

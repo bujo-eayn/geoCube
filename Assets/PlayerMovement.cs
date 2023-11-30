@@ -26,6 +26,8 @@ public class PlayerMovement : MonoBehaviour
             rb.position = worldPosition;
         } 
     }
+
+// on mouse down movement
     void OnMouseDown()
     {
         isPickedUp = true;
